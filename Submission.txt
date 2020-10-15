@@ -2,3 +2,5 @@
 ● usernamn: admin
 ● password: admin123
 ● port: 3306
+
+● github link: https://github.com/kaihenghu/Assignment-2
