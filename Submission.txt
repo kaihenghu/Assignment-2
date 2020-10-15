@@ -1,0 +1,4 @@
+● the hostname: cs3200-fall2020-kaiheng.c7feu8ffxh78.us-east-2.rds.amazonaws.com
+● usernamn: admin
+● password: admin123
+● port: 3306
